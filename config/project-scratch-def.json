@@ -1,45 +1,73 @@
 {
-    "orgName": "LWC Recipes",
-    "edition": "Developer",
-    "hasSampleData": true,
-    "features": [
-        "PersonAccounts",
-        "ServiceCloud",
-        "API",
-        "DebugApex",
-        "AddHistoryFieldsPerEntity:25",
-        "LiveAgent",
-        "Knowledge",
-        "Entitlements",
-        "ExternalSharing",
-        "Communities",
-        "DefaultWorkflowUser",
-        "ForceComPlatform",
-        "PlatformCache",
-        "RetainFieldHistory",
-        "ContactsToMultipleAccounts"
-      ],
-      "settings": {
-        "caseSettings": {
-          "emailToCase": {
-            "enableEmailToCase": true
-          }
-        },
-        "entitlementSettings": {
-          "enableEntitlements": true
-        },
-        "liveAgentSettings": {
-          "enableLiveAgent": true
-        },
-        "nameSettings": {
-          "enableMiddleName": true,
-          "enableNameSuffix": true
-        },
-        "lightningExperienceSettings": {
-          "enableS1DesktopEnabled": true
-        },
-        "enhancedNotesSettings": {
-          "enableEnhancedNotes": true
-        }
-      }
+  "orgName": "LWC Recipes",
+  "edition": "Developer",
+  "hasSampleData": true,
+  "features": [
+    "PersonAccounts",
+    "ServiceCloud",
+    "API",
+    "DebugApex",
+    "LiveAgent",
+    "Knowledge",
+    "Entitlements",
+    "ExternalSharing",
+    "Communities",
+    "DefaultWorkflowUser",
+    "ForceComPlatform",
+    "PlatformCache",
+     "MultiCurrency",
+    "Chatbot",
+    "CPQ",
+    "CaseClassification",
+    "ChangeDataCapture",
+    "ContactsToMultipleAccounts",
+    "EinsteinAnalyticsPlus",
+     "GenericStreaming",
+       "LiveMessage",
+    "Macros",
+    "MarketingUser",
+    "MobileSecurity",
+    "NumPlatformEvents:20",
+    "ObjectLinking",
+    "PlatformConnect",
+    "PlatformEncryption",
+    "SalesforceContentUser",
+       "StreamingAPI",
+    "TerritoryManagement",
+    "DataMaskUser",
+    "DebugApex",
+    "DevelopmentWave",
+    "EventLogFile",
+    "FinancialServicesUser:10",
+    "InsightsPlatform",
+    "LightningServiceConsole"
+  ],
+  "settings": {
+    "caseSettings": {
+      "emailToCase": {
+        "enableEmailToCase": true      }
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+    },
+    "entitlementSettings": {
+      "enableEntitlements": true
+    },
+    "liveAgentSettings": {
+      "enableLiveAgent": true
+    },
+    "nameSettings": {
+      "enableMiddleName": true,
+      "enableNameSuffix": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    }
+  }
 }

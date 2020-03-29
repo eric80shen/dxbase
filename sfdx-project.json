@@ -3,7 +3,7 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "LWCRecipes",
+            "package": "mydxpackage",
             "versionName": "Spring '20",
             "versionNumber": "3.0.0.NEXT"
         }

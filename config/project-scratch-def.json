@@ -40,7 +40,20 @@
     "EventLogFile",
     "FinancialServicesUser:10",
     "InsightsPlatform",
-    "LightningServiceConsole"
+    "LightningServiceConsole",
+    "LiveMessage",
+    "Macros",
+    "MarketingUser",
+    "MobileSecurity",
+    "NumPlatformEvents:20",
+      "ObjectLinking",
+      "PlatformConnect",
+      "PlatformEncryption",
+      "SingleSignOn",
+      "SocialCustomerService",
+      "StreamingAPI",
+      "TerritoryManagement",
+       "WavePlatform"
   ],
   "settings": {
     "caseSettings": {
